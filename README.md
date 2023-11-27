@@ -7,12 +7,11 @@ You can use rainbow squares to connect two different colors together to create c
 
 # Installation
 
-Make sure the game is actually extracted, or it won't run properly.
+Download the zip file for the most recent version, extract it, then run Concatalyst-vXX.exe. The Concatalyst-vXX.py file will also run the game if you have a python interpreter and the pygame library installed.
 
-The game should run fine, so long as the game is in the same directory as the concatalystlogo.png file, as I never bothered to except it in the coding.
+The game should run fine, so long as the game is in the same directory as the concatalystlogo.png file.
 
-
-Another thing to note, you can change the game's background by putting an image file called "BackgroundImage.jpg" in the game's directory.
+You can change the game's background by putting an image file called "BackgroundImage.jpg" in the game's directory.
 
 # Controls
 
